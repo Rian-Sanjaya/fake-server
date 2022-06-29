@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Sheffie",
+      "last_name": "Selwood",
+      "email": "sselwood0@hugedomains.com",
+      "gender": "Bigender"
+    }, {
+      "id": 2,
+      "first_name": "Ashbey",
+      "last_name": "Terrazzo",
+      "email": "aterrazzo1@google.co.uk",
+      "gender": "Polygender"
+    }, {
+      "id": 3,
+      "first_name": "Yolane",
+      "last_name": "Anthoine",
+      "email": "yanthoine2@tripadvisor.com",
+      "gender": "Female"
+    }, {
+      "id": 4,
+      "first_name": "Abran",
+      "last_name": "Iremonger",
+      "email": "airemonger3@cornell.edu",
+      "gender": "Male"
+    }, {
+      "id": 5,
+      "first_name": "Lars",
+      "last_name": "Colyer",
+      "email": "lcolyer4@ameblo.jp",
+      "gender": "Male"
+    }, {
+      "id": 6,
+      "first_name": "Chrysler",
+      "last_name": "Reef",
+      "email": "creef5@samsung.com",
+      "gender": "Female"
+    }, {
+      "id": 7,
+      "first_name": "Devonne",
+      "last_name": "Gerrad",
+      "email": "dgerrad6@techcrunch.com",
+      "gender": "Female"
+    }, {
+      "id": 8,
+      "first_name": "Robinet",
+      "last_name": "McGeechan",
+      "email": "rmcgeechan7@youku.com",
+      "gender": "Female"
+    }, {
+      "id": 9,
+      "first_name": "Jolyn",
+      "last_name": "Abad",
+      "email": "jabad8@godaddy.com",
+      "gender": "Female"
+    }, {
+      "id": 10,
+      "first_name": "Nataniel",
+      "last_name": "Loughnan",
+      "email": "nloughnan9@adobe.com",
+      "gender": "Male"
+    }
+  ]
+}
